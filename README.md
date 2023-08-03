@@ -1,0 +1,4 @@
+- 👋 Eai! Me chamo Ruy Bueno, tenho 23 anos e sou apaixonado por computação desde pequeno. Seja bem-vindo ao meu Hub, fique á vontade para navegar dentro do meu perfil.
+- 👀 Procuro sempre aprender mais sobre as linguagens de programação. Hoje domino, SQL e suas "variáveis", Pyhton, CSS e HTML. 
+- 💞️ Comecei meu desenvolvimento com programação e banco de dados, com B.I (Business Inteligence).
+- 📫 Pode conseguir contato através do meu e-mail: buenodevs28@gmail.com
