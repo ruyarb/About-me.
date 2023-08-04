@@ -2,3 +2,5 @@
 - 👀 Procuro sempre aprender mais sobre as linguagens de programação. Hoje domino, SQL e suas "variáveis", Pyhton, CSS e HTML. 
 - 💞️ Comecei meu desenvolvimento com programação e banco de dados, com B.I (Business Inteligence).
 - 📫 Pode conseguir contato através do meu e-mail: buenodevs28@gmail.com
+- 👜 Trabalho hoje em dia na Agência de Trade Marketing, FULLPROMO MARKETING PROFISSIONAL.
+- 🔍 Data Analyst.
